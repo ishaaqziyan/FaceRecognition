@@ -1,4 +1,5 @@
 # FaceRecognition App
+<B>Note: Switch to the branch `multiplefaces` if you want to detect multiple faces</B>
 ![face](https://github.com/ishaaqziyan/FaceRecognition/assets/98882071/55653601-bc33-4b2f-8cab-b5e326c68fb5)
 
 1. Clone this repo
